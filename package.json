@@ -1,0 +1,29 @@
+{
+  "name": "jsonpick",
+  "version": "1.0.0",
+  "description": "Pick values from a JSON file",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R nyan -w --check-leaks"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asbjornenge/jsonpick.git"
+  },
+  "keywords": [
+    "cli",
+    "json"
+  ],
+  "author": "Asbjorn Enge <asbjorn@hanafjedle.net>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/asbjornenge/jsonpick/issues"
+  },
+  "homepage": "https://github.com/asbjornenge/jsonpick",
+  "dependencies": {
+    "minimist": "^1.1.0"
+  }
+}
