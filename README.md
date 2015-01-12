@@ -6,7 +6,7 @@ jsonpick picks values from a json file based on dot notation selectors.
 
     npm install -g jsonpick
 
-## use
+## Use
 
     jsonpick <file>.json aws.secret
 
