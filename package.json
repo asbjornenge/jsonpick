@@ -1,6 +1,6 @@
 {
   "name": "jsonpick",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Pick values from a JSON file",
   "bin": "index.js",
   "directories": {
